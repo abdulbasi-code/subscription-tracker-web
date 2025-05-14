@@ -36,6 +36,8 @@ A modern React + Vite app to track your subscriptions, visualize upcoming paymen
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/subscription-tracker.git
-cd subscription-tracker
+git clone https://github.com/your-username/subscription-tracker-web
+.git
+cd subscription-tracker-web
+
 ```
