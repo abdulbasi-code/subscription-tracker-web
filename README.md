@@ -1,6 +1,6 @@
 # 🧾 Subscription Tracker – Frontend
 
-A modern React + Vite app to track your subscriptions, visualize upcoming payments on a yearly grid, and manage billing cycles — built with authentication and clean UI components.
+A modern React + Vite app to track your subscriptions, visualize upcoming payments on a yearly grid, and manage billing cycles built with authentication and clean UI components.
 
 > ⚠️ This is only the **frontend** portion of the app. The backend (Express + Prisma) is in a separate private/local repository or not included here.
 
